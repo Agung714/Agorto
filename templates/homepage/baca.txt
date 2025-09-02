@@ -1,0 +1,12 @@
+saya mencoba menambahkan fitur tags pada project saya dapat dilihat di (D:\AGUNG\pkl\agorto\porto\models.py) dan saya mengambil referensi dari (D:\AGUNG\pkl\agorto\referensi)
+tapi hasilnya berbeda, bisakah anda mengidentifikasi masalahnya
+
+
+pada line 568 saya mencoba membuat agar saat di klik maka link akan dibuat pada tab baru tapi gagal
+mengenai masalah image yang terpotong sebelumnya , saya menemukan image masih terpotong , jika memang tidak bisa dibuat menampilkan semuanya lebih baik bagian bawah saja yang terpotong
+
+#667eea
+#764ba2
+
+Passionate about building robust server-side applications, APIs, and scalable backend systems. I love turning complex problems into simple, elegant solutions.
+
