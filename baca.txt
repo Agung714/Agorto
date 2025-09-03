@@ -1,0 +1,9 @@
+
+
+mengenai masalah image yang terpotong sebelumnya , saya menemukan image masih terpotong , jika memang tidak bisa dibuat menampilkan semuanya lebih baik bagian bawah saja yang terpotong
+
+#667eea
+#764ba2
+
+ubah style menjadi static file
+
