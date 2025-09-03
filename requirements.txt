@@ -1,0 +1,5 @@
+Django
+django-heroku
+django-bootstrap5
+mysqlclient
+Pillow
